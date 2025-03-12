@@ -40,9 +40,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpandey007&" alt="vaibhavpandey007" /></p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurdesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaibhavpandey007/output/main/snake.svg" alt="snake animation" />
+</p>
 
 
 
