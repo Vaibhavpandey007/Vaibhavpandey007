@@ -40,4 +40,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpandey007&" alt="vaibhavpandey007" /></p>
 
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaibhavpandey007/output/main/snake.svg" alt="snake animation" />
+</p>
 
