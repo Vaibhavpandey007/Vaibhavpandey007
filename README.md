@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects and details are available at [https://vaibhav82996.github.io/Vaibhav8299.github.io/#home](https://vaibhav82996.github.io/Vaibhav8299.github.io/#home)
 
-- 💬 Ask me about **Python libraries.**
+- 💬 Ask me about **Crypto Currency**
 
 - 📫 How to reach me **vaibhavpanday245@gmail.com**
 
@@ -38,11 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavpandey007&show_icons=true&locale=en" alt="vaibhavpandey007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpandey007&" alt="vaibhavpandey007" /></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vaibhavpandey007/output/main/snake.svg" alt="snake animation" />
-</p>
 
 
 
