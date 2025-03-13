@@ -9,7 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpandey007&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavpandey007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavpandey007" alt="vaibhavpandey007" /></a> </p>
+[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavpandey007" alt="vaibhavpandey007" /></a> </p>
+](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
 
 - 🌱 I’m currently learning **Data Analytics, Figma,Blockchain, ML and Cloud..**
 
