@@ -5,6 +5,7 @@
 <div id="toc">
 
 <h1 align="center">Hi 👋, I'm Vaibhav Pandey.</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38C2FFE4&width=435&lines=Welcome+to+my+Github...;Bridging+logic+with+creativity;Design.+Develop.+Debug.+Deliver)](https://git.io/typing-svg)
 <h3 align="center">A passionate Data Science Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpandey007&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavpandey007" /> </p>
